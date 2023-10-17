@@ -4,7 +4,7 @@
 **Getting Started**
 - Install maven
 - Install Java version 20
-- git clone `https://github.com/rakesh436/veevaNba.git`
+- git clone `https://github.com/rakesh436/iTunes.git`
 - `run` : mvn clean install
 
 **Writing Tests**
@@ -23,7 +23,7 @@
 - To run TEST from terminal execute command `mvn clean test`
 
 **REPORTS**
-Reports can be found in `target` folder and screenshots for failed test in `screenshots` directory
+Reports can be found in `target` folder.
 
 `TOOLS USED`
 1. Java
