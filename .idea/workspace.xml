@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fdc58301-4b56-454a-b18b-5dbf94380ed9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schema/search.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iTunes/Base/BaseSetup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iTunes/Constants/URI/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iTunes/Constants/URL/BaseUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iTunes/Constants/URL/URL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iTunes/Domains/Search/ResultPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iTunes/Domains/Search/SearchPoJo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iTunes/ServiceMethods/LookUpMethods/LookupMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iTunes/ServiceMethods/SearchMethods/SearchMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/iTunes/dataProvider/SearchData/SearchData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/iTunes/test/Search/SearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/iTunes/test/lookup/lookUpTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2WqI7HKuNagQxShMGIn2MG4L0F5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.iTunes.Genric" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.SearchTest">
+    <configuration name="SearchTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="iTunes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iTunes.test.Search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.iTunes.test.Search" />
+      <option name="MAIN_CLASS_NAME" value="com.iTunes.test.Search.SearchTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest.searchSchemaValidatorTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="iTunes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iTunes.test.Search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.iTunes.test.Search" />
+      <option name="MAIN_CLASS_NAME" value="com.iTunes.test.Search.SearchTest" />
+      <option name="METHOD_NAME" value="searchSchemaValidatorTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest.searchTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="iTunes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iTunes.test.Search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.iTunes.test.Search" />
+      <option name="MAIN_CLASS_NAME" value="com.iTunes.test.Search.SearchTest" />
+      <option name="METHOD_NAME" value="searchTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest.searchTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="iTunes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iTunes.test.Search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.iTunes.test.Search" />
+      <option name="MAIN_CLASS_NAME" value="com.iTunes.test.Search.SearchTest" />
+      <option name="METHOD_NAME" value="searchTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SearchTest" />
+        <item itemvalue="TestNG.SearchTest.searchSchemaValidatorTest" />
+        <item itemvalue="TestNG.SearchTest.searchTest" />
+        <item itemvalue="TestNG.SearchTest.searchTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdc58301-4b56-454a-b18b-5dbf94380ed9" name="Changes" comment="" />
+      <created>1697453519288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697453519288</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
